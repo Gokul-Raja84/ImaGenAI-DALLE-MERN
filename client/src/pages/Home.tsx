@@ -58,12 +58,13 @@ function Home() {
             <Header />
             <div className="container mx-auto max-w-screen-xl px-2">
                 <h1 className="mt-16 pb-7 sm:mt-20 animate-text text-center bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl sm:7xl font-black">
-                    Text to image with AI Image Generator
+                    Text to image with AI Image Generation ⚡
                 </h1>
                 <p className="text-center">
-                    Unlock your imagination with our platform and witness the
-                    breathtaking power of computer-generated imagery!
+                    Unlock your imagination and witness the breathtaking power
+                    of AI-generated imagery !
                 </p>
+                <p className="text-center">Developed by Gokul Raja 🚀</p>
                 <div className="max-w-screen-xl mt-10 mx-auto">
                     <div className="mb-6 flex space-y-5 flex-col sm:flex-row sm:items-baseline sm:space-x-5">
                         <div className="flex w-full row space-x-2 items-center">
@@ -104,7 +105,7 @@ function Home() {
                                 setPrompt(getSurprisePrompt(prompt))
                             }}
                         >
-                            Surprize Me
+                            Surprise Me !
                         </button>
                     </div>
                 </div>
