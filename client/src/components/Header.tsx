@@ -9,7 +9,6 @@ function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <a
                         href="https://imagen-dalle-mern.netlify.app/"
-                        target="_blank"
                         className="flex items-center"
                     >
                         <img
@@ -19,12 +18,20 @@ function Header() {
                         />
                     </a>
                     <div className="flex items-center lg:order-2 gap-x-3">
-                        <div className="mt-4 pb-1 sm:mt-1 animate-text text-center bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-2xl sm:2xl font-black">
-                            <p>Gokul Raja</p>
-                        </div>
+                        <a href="https://github.com/dhavalCode/ai-image-generator">
+                            <img
+                                alt="GitHub Repo stars"
+                                src="https://img.shields.io/github/stars/dhavalcode/ai-image-generator?logoColor=ssd&style=social"
+                            />
+                        </a>
+                        <a href="https://github.com/dhavalCode/ai-image-generator">
+                            <img
+                                alt="GitHub forks"
+                                src="https://img.shields.io/github/forks/dhavalcode/ai-image-generator?style=social"
+                            />
+                        </a>
                         <a
                             href="https://github.com/Gokul-Raja84/ImaGenAI-DALLE-MERN"
-                            target="_blank"
                             className="ml-4 hidden sm:block"
                         >
                             <svg

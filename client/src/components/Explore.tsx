@@ -67,8 +67,8 @@ const Explore: React.FC<ImageModalProps> = ({ setImageModalState }) => {
                 </h2>
 
                 <p className="mt-2 text-xs sm:text-sm">
-                    So Far, My MERN stack has produced countless stunning AI
-                    Images. Be amazed by what it can do for You !
+                    So Far, Our platform has produced countless stunning images.
+                    Be amazed by what it can do for You.
                 </p>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
