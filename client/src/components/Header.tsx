@@ -18,7 +18,7 @@ function Header() {
                         />
                     </a>
                     <div className="flex items-center lg:order-2 gap-x-3">
-                        <a href="https://github.com/dhavalCode/ai-image-generator">
+                        {/* <a href="https://github.com/dhavalCode/ai-image-generator">
                             <img
                                 alt="GitHub Repo stars"
                                 src="https://img.shields.io/github/stars/dhavalcode/ai-image-generator?logoColor=ssd&style=social"
@@ -29,7 +29,7 @@ function Header() {
                                 alt="GitHub forks"
                                 src="https://img.shields.io/github/forks/dhavalcode/ai-image-generator?style=social"
                             />
-                        </a>
+                        </a> */}
                         <a
                             href="https://github.com/Gokul-Raja84/ImaGenAI-DALLE-MERN"
                             className="ml-4 hidden sm:block"
