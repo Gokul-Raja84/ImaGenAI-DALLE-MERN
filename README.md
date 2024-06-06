@@ -2,7 +2,7 @@
 
 ### Live Demo : 
 
-The Website is live - [here](https://image-generator.dhavalcode.com)
+The Website is live - [here](https://imagen-dalle-mern.netlify.app/)
 
 
 ## Project Description
